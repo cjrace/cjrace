@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Cam 👋
 
-<!--
-**cjrace/cjrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Statistician and Data Product Manager in the North East (UK)
 
-Here are some ideas to get you started:
+⚡ R developer interested in all things data and development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Python and TypeScript
+
+💬 Ask me about tidy data, data visualisation, web accessibility, and R Shiny / R packages
+
+<br>
+<div>
+<img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=cjrace&theme=nord&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" />
+<img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjrace&theme=nord&langs_count=10&layout=compact&exclude_repo=20200914-rap-champions-presentation,introduction-to-rap-2,introduction-to-rap,dc2021-standardising-open-data" />
+</div>
+<br>
+
+GitHub statistics provided using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). **languages only covers my public repositories, excludes forks, contributions in other organisations, and presentation repositories*

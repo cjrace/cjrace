@@ -1,10 +1,8 @@
 ## Hey, I'm Cam 👋
 
-🔭 Statistician and Data Product Manager in the North East (UK)
+🔭 Statistics, Data, and Digital, based in the North East (UK)
 
 ⚡ R developer interested in all things data and development
-
-🌱 I’m currently learning Python and TypeScript
 
 💬 Ask me about tidy data, data visualisation, web accessibility, and R Shiny / R packages
 

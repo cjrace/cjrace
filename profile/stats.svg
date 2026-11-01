@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cam Race's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 357, Total PRs: 526, Total PRs Merged: 483, Merged PRs Percentage: 91.83, Total PRs Reviewed: 71, Total Issues: 322, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 367, Total PRs: 548, Total PRs Merged: 502, Merged PRs Percentage: 91.61, Total PRs Reviewed: 71, Total Issues: 332, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.289283833768;
+        stroke-dashoffset: 101.851669979466;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >357</text>
+      >367</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >526</text>
+      >548</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >483</text>
+      >502</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >91.83 %</text>
+      >91.61 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >322</text>
+      >332</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">

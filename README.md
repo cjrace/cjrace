@@ -6,7 +6,7 @@
 
 💻 Still enjoy getting hands-on with code, mostly in R, Python and TypeScript.
 
-💬 Always happy to talk about tidy data, data visualisation, accessibility, APIs and R Shiny.
+💬 Always happy to talk about tidy data, data visualisation, accessibility, APIs and R development.
 
 🔎 Have a look at [dfe-analytical-services](https://github.com/dfe-analytical-services)
 

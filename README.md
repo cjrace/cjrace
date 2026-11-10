@@ -1,10 +1,12 @@
 ## Hey, I'm Cam 👋
 
-🔭 Statistics, Data, and Digital, based in the North East (UK)
+🔭 Statistician, developer and digital leader based in North East England.
 
-⚡ R and Python developer interested in all things data and development
+⚡ Interested in open data, open-source software and making information more accessible and useful.
 
-💬 Ask me about tidy data, data visualisation, web accessibility, and R Shiny / R packages
+💻 Still enjoy getting hands-on with code, mostly in R, Python and TypeScript.
+
+💬 Always happy to talk about tidy data, data visualisation, accessibility, APIs and R Shiny.
 
 🔎 Have a look at [dfe-analytical-services](https://github.com/dfe-analytical-services)
 
